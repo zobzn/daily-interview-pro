@@ -1,0 +1,16 @@
+{
+  "name": "from-website",
+  "version": "1.0.0",
+  "description": "Given two sorted linked lists, merge them in order.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "jest": "^24.9.0"
+  }
+}
